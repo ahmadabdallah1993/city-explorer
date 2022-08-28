@@ -43,6 +43,7 @@ class Forms extends React.Component{
                 lon: responceReselt.data[0].lon,
                 openMap: true
             })
+         
         } 
         catch
         {
@@ -70,7 +71,7 @@ class Forms extends React.Component{
             // </div>
 
 
-        <Form onSubmit={this.handleLocation}>
+        <Form onSubmit={this.handleLocation} >
         <Form.Group className="mb-3" controlId="formBasicLocation">
         <Form.Label>please enter the location</Form.Label>
         <Form.Control type="location" placeholder="enter a city..." name='location' />
