@@ -81,30 +81,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+### this application will allow the users to put the city they want as an input, then by pressing explore it will show for them the name of the city and the latitude and the longitude and the static map for that city.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+### they have to connect them react app with an api that will allow the user to use the data from third parties source. then they have to call the data then they can easiely use it.
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+### it only use the english language 
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+#### Name of feature: connecting the react app with api and show the map from the react app
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+#### Estimate of time needed to complete: 4 hours
+
+#### Start time: 6:00 pm
+
+#### Finish time: 10:00 pm
+
+#### Actual time needed to complete: 4:hours
+
+
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+#### https://locationiq.com/
 
 
 
-Name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____

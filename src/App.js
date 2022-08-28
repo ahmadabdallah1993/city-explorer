@@ -1,13 +1,28 @@
 import React from 'react';
 import Forms from './component/Forms';
+import Header from './component/Header'
+import Footer from './component/Footer'
+
+
+
 
 
 class App extends React.Component{
+
+
+
+
+
+
   render(){
     return(
       <div>
-        <h1>welcome to the website</h1>
+        <Header />
+        
       <Forms />
+
+      <Footer />
+      
       </div>
       
     )
